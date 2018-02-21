@@ -1,0 +1,11 @@
+
+SERVER_LOW = 38000
+SERVER_HIGH = 38010
+
+
+VIEWLEADER_LOW = 39000
+VIEWLEADER_HIGH = 39010
+
+LOCK_LEASE = 20
+REPLICATION = 3
+#3 is hard coded into the "bucket_allocator" function
