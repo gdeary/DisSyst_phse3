@@ -1,8 +1,7 @@
 # Distributed Hash Table in Python
 
-***
 
-A simple experiment in distributed storage, two-phase commit, and hash allocator in Python. This was the third iteration on a class project, written for COMP 360 "Distributed Systems," Fall 2016, Prof. Jeff Epstein, Wesleyan University.
+A simple experiment in distributed storage, two-phase commit, and hash allocation in Python. This was the third iteration on a class project, written for COMP 360 "Distributed Systems," Fall 2016, Prof. Jeff Epstein, Wesleyan University.
 
 ### State: 
 Tested locally on Debian, not currently working on macOS. The touchiest part is the default use of 'localhost'. Definitely could be cleaned up—some unneccessary redundant code and messiness.
